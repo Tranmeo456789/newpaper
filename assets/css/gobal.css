@@ -1,0 +1,36 @@
+.container{
+    width: 1170px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0px auto;
+}
+.justify-content-space-between{
+    justify-content: space-between;
+}
+.d-flex{
+    display: flex;
+}
+.wrapper{
+    margin: 0px;
+}
+.text-center{
+    text-align: center;
+}
+.text-upper{
+    text-transform: uppercase;
+}
+*{
+    box-sizing: border-box;
+}
+.text-white{
+    color: #eeeeee;
+    font-size: 16px;
+}
+ul{
+    padding-left: 0px;
+    list-style: none;
+    margin-bottom: 0px;
+}
+p, h3{
+    margin-bottom: 0px;
+}
